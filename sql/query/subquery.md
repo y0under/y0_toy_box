@@ -2,7 +2,7 @@
 
 # in
 
-```
+``` sql
 select country_id
 from country
 where country_id in
